@@ -1,1 +1,2 @@
 # Media-Aluno
+Este programa é um exemplo de um loop while infinito que solicita ao usuário que insira o nome e as notas de um aluno, calcula a média das notas, verifica se a média é maior ou igual a 5, e imprime se o aluno foi aprovado ou reprovado. Em seguida, o programa pergunta ao usuário se ele deseja fazer uma nova verificação, encerrando o loop se a resposta for 'N'. O programa continuará pedindo informações do aluno e verificando a média até que o usuário decida parar de fazer novas verificações.
